@@ -5,7 +5,6 @@ class Program
     static void Main(string[] args)
     {
         // Variables
-        string userMagicNumber;
         string userGuess;
         int number;
         int guess;
